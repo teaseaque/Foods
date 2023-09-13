@@ -1,0 +1,320 @@
+{
+  "sounds" : [
+    {
+      "name" : "Apple",
+      "color" : "FAE3D8",
+      "image" : "🍎"
+    },
+    {
+      "name" : "Avocado",
+      "color" : "D2E7BA",
+      "image" : "🥑"
+    },
+    {
+      "name" : "Bacon",
+      "color" : "F9DCB2",
+      "image" : "🥓"
+    },
+    {
+      "tintColor" : "734C16",
+      "name" : "Bagel",
+      "image" : "🥯",
+      "color" : "FAE5AF"
+    },
+    {
+      "name" : "Banana",
+      "color" : "FEFBC0",
+      "image" : "🍌"
+    },
+    {
+      "name" : "Blueberries",
+      "color" : "D6E2FC",
+      "image" : "🫐"
+    },
+    {
+      "name" : "Bread",
+      "color" : "D6D6D6",
+      "image" : "🍞"
+    },
+    {
+      "name" : "Broccoli",
+      "color" : "D2E7BA",
+      "image" : "🥦"
+    },
+    {
+      "name" : "Butter",
+      "color" : "C2C2C2",
+      "image" : "🧈"
+    },
+    {
+      "tintColor" : "999999",
+      "name" : "Cake",
+      "image" : "🎂",
+      "color" : "EBEBEB"
+    },
+    {
+      "tintColor" : "C8872E",
+      "name" : "Carrot",
+      "image" : "🥕",
+      "color" : "F9DAAE"
+    },
+    {
+      "name" : "Cheese",
+      "color" : "FCEDD7",
+      "image" : "🧀"
+    },
+    {
+      "tintColor" : "734C16",
+      "name" : "Cheeseburger",
+      "image" : "🍔",
+      "color" : "FCEDD7"
+    },
+    {
+      "tintColor" : "6F223D",
+      "name" : "Cherries",
+      "image" : "🍒",
+      "color" : "F3D4E0"
+    },
+    {
+      "name" : "Chocolate",
+      "color" : "D6D6D6",
+      "image" : "🍫"
+    },
+    {
+      "name" : "Coconut",
+      "color" : "EBEBEB",
+      "image" : "🥥"
+    },
+    {
+      "name" : "Cookie",
+      "color" : "FEF8D3",
+      "image" : "🍪"
+    },
+    {
+      "name" : "Corn",
+      "color" : "E2EED6",
+      "image" : "🌽"
+    },
+    {
+      "name" : "Crescent ",
+      "color" : "FDF2D8",
+      "image" : "🥐"
+    },
+    {
+      "tintColor" : "3F5623",
+      "name" : "Cucumber",
+      "image" : "🥒",
+      "color" : "E4FFCC"
+    },
+    {
+      "tintColor" : "707070",
+      "name" : "Cupcake",
+      "image" : "🧁",
+      "color" : "D6D6D6"
+    },
+    {
+      "tintColor" : "523E0F",
+      "name" : "Donut",
+      "image" : "🍩",
+      "color" : "FAE5AF"
+    },
+    {
+      "name" : "Egg",
+      "color" : "ADADAD",
+      "image" : "🥚"
+    },
+    {
+      "name" : "Eggplant",
+      "color" : "D6CAFA",
+      "image" : "🍆"
+    },
+    {
+      "name" : "French Fries ",
+      "color" : "F9DCD9",
+      "image" : "🍟"
+    },
+    {
+      "name" : "Ginger",
+      "color" : "FAE5AF",
+      "image" : "🫚"
+    },
+    {
+      "name" : "Grape",
+      "color" : "F3D4E0",
+      "image" : "🍇"
+    },
+    {
+      "name" : "Hotdog",
+      "color" : "F9DAAE",
+      "image" : "🌭"
+    },
+    {
+      "name" : "Ice",
+      "color" : "EBEBEB",
+      "image" : "🧊"
+    },
+    {
+      "name" : "Ice Cream",
+      "color" : "D6E2FC",
+      "image" : "🍦"
+    },
+    {
+      "tintColor" : "729C44",
+      "name" : "Kiwi",
+      "image" : "🥝",
+      "color" : "D2E7BA"
+    },
+    {
+      "name" : "Lemon",
+      "color" : "FEFCE0",
+      "image" : "🍋"
+    },
+    {
+      "name" : "Lettuce",
+      "color" : "E2EED6",
+      "image" : "🥬"
+    },
+    {
+      "name" : "Lollipop",
+      "color" : "FAE3D8",
+      "image" : "🍭"
+    },
+    {
+      "name" : "Mango",
+      "color" : "FCEDD7",
+      "image" : "🥭"
+    },
+    {
+      "name" : "Olive",
+      "color" : "E2EED6",
+      "image" : "🫒"
+    },
+    {
+      "name" : "Onion",
+      "color" : "FDF2D8",
+      "image" : "🧅"
+    },
+    {
+      "name" : "Orange",
+      "color" : "FCEDD7",
+      "image" : "🍊"
+    },
+    {
+      "tintColor" : "8C8629",
+      "name" : "Pancakes",
+      "image" : "🥞",
+      "color" : "FAE5AF"
+    },
+    {
+      "name" : "Peach",
+      "color" : "F6C7AF",
+      "image" : "🍑"
+    },
+    {
+      "name" : "Peanut",
+      "color" : "FCEDD7",
+      "image" : "🥜"
+    },
+    {
+      "name" : "Pear",
+      "color" : "F3F7BE",
+      "image" : "🍐"
+    },
+    {
+      "name" : "Peas",
+      "color" : "E2EED6",
+      "image" : "🫛"
+    },
+    {
+      "tintColor" : "729C44",
+      "name" : "Pepper",
+      "image" : "🫑",
+      "color" : "E2EED6"
+    },
+    {
+      "name" : "Pie",
+      "color" : "FCEDD7",
+      "image" : "🥧"
+    },
+    {
+      "name" : "Pineapple",
+      "color" : "FDF2D8",
+      "image" : "🍍"
+    },
+    {
+      "name" : "Popcorn",
+      "color" : "F4B8B1",
+      "image" : "🍿"
+    },
+    {
+      "tintColor" : "53350D",
+      "name" : "Pretzel",
+      "image" : "🥨",
+      "color" : "FAE5AF"
+    },
+    {
+      "name" : "Rice",
+      "color" : "D6E2FC",
+      "image" : "🍚"
+    },
+    {
+      "tintColor" : "3F5623",
+      "name" : "Salad",
+      "image" : "🥗",
+      "color" : "E2EED6"
+    },
+    {
+      "name" : "Sandwich ",
+      "color" : "D6D6D6",
+      "image" : "🥪"
+    },
+    {
+      "name" : "Spaghetti",
+      "color" : "FDF2D8",
+      "image" : "🍝"
+    },
+    {
+      "name" : "Steak",
+      "color" : "D6D6D6",
+      "image" : "🥩"
+    },
+    {
+      "name" : "Strawberry",
+      "color" : "F4B8B1",
+      "image" : "🍓"
+    },
+    {
+      "name" : "Sushi",
+      "color" : "F9DCD9",
+      "image" : "🍣"
+    },
+    {
+      "name" : "Sweet Potato",
+      "color" : "FAE5AF",
+      "image" : "🍠"
+    },
+    {
+      "tintColor" : "781E0E",
+      "name" : "Tomato",
+      "image" : "🍅",
+      "color" : "F4B8B1"
+    },
+    {
+      "tintColor" : "9F7D28",
+      "name" : "Waffle",
+      "image" : "🧇",
+      "color" : "FAE5AF"
+    },
+    {
+      "name" : "Watermelon",
+      "color" : "F4B8B1",
+      "image" : "🍉"
+    }
+  ],
+  "showGridSoundLabels" : false,
+  "tintColor" : "000000",
+  "color" : "D6D6D6",
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "image" : "🍱",
+  "name" : "Food"
+}
